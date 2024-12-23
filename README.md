@@ -137,8 +137,8 @@ pip install yfinance pandas numpy matplotlib seaborn vaderSentiment xgboost scik
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your_username/commodity-trading-framework.git
-cd commodity-trading-framework
+git clone https://github.com/aguru-venkata-saisantosh-patnaik/Commodity_Trader_AI.git
+cd Commodity_Trader_AI
 ```
 
 ### 2. Fetch Historical Data
