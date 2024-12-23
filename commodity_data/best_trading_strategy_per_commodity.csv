@@ -1,0 +1,11 @@
+Commodity,Strategy,CAGR (%)
+coffee,Mean Reversion Strategy,4.443944329167104
+copper,Seasonal Strategy,5.14377112283293
+corn,Seasonal Strategy,9.90408770908946
+cotton,Range Trading Strategy,9.38680335682196
+crude_oil,Breakout Strategy,20.282334217058384
+gold,Mean Reversion Strategy,0.6223725494462151
+natural_gas,Range Trading Strategy,19.547031626099564
+silver,Range Trading Strategy,0.24544088021880572
+sugar,Range Trading Strategy,7.166726798780143
+wheat,Range Trading Strategy,11.300327675070964
